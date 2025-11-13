@@ -1,23 +1,41 @@
-🎮 Welcome to Mathew's Game Design Lab
-Hi there! I'm Mathew — a game designer, systems thinker, and creative problem-solver currently completing my Game Design and Programming Diploma at LaSalle College Vancouver. I blend technical precision with playful imagination to build worlds, mechanics, and experiences that spark curiosity and challenge convention.
-🧠 What Drives Me
-- Systems-first design — I love crafting gameplay mechanics that feel intuitive, balanced, and deeply interconnected.
-- Collaborative creativity — Whether mentoring teammates or iterating on ideas, I thrive in environments that value feedback, growth, and shared vision.
-- Real-world inspiration — From ferret-inspired D&D species to reputation systems shaped by industry scandals, I translate reality into meaningful game mechanics.
+# 🎮 Mathew's Game Design Portfolio
 
+Hi! I'm Mathew — a game designer and developer currently completing my Game Design and Programming Diploma at LaSalle College Vancouver. I specialize in gameplay systems, collaborative design, and translating real-world inspiration into engaging mechanics.
 
+## 🧠 Design Philosophy
 
-🔍 Featured Projects
-- 🦔 Mustari Species (Homebrew D&D)
-A flavorful, ferret-inspired race with unique traits and subraces. Built for balance, lore, and mechanical depth.
-- 🧩 Puzzle Platformer Prototype
-Designed in Unity with layered mechanics, adaptive difficulty, and narrative hooks.
+- Mechanics-first: I build systems that feel intuitive, balanced, and rewarding.
+- Narrative-aware: I design with lore, context, and player immersion in mind.
+- Iterative & analytical: I test, tweak, and challenge assumptions to make better games.
 
-🌱 From Supervisor to Storyteller
-Before diving into game development, I led teams at Stormtech, driving process improvements and mentoring others. Now, I channel that leadership into collaborative design, where every mechanic tells a story and every system invites exploration.
+## 🕹️ Projects
 
-📫 Let’s Connect
-- 🕹️ [(Itch.io)](https://dankmctavish.itch.io/)
+### Wordle Clone (Unity)
+A clean, responsive version of the viral word game. Includes keyboard input, feedback animations, and daily word logic.
+
+### Zombie Wave Shooter (Unity)
+Fast-paced survival shooter with wave-based enemy spawning, weapon upgrades, and score tracking.
+
+### Mini Games Collection (Unreal Engine)
+Includes Snake, Hangman, Pong, and Bomberman. Each game is built with modular logic and polished UI.
+
+### Mustari Species (Homebrew D&D)
+A ferret-inspired race with flavorful traits, subraces, and lore. Designed for balance, roleplay depth, and mechanical clarity.
+
+## 🛠️ Skills
+
+- Languages: C++, C#, Python
+- Engines: Unity, Unreal Engine, Godot
+- Tools: Maya, GitHub, Visual Studio
+- Focus: Gameplay systems, world-building, UX, collaborative iteration
+
+## 🌱 From Supervisor to Storyteller
+
+Before game design, I led teams at Stormtech — mentoring, improving processes, and building SOPs. Now I channel that leadership into creative production, where every mechanic tells a story and every system invites exploration.
+
+## 📫 Connect with Me
+
+- 🕹️ [Itch.io](https://dankmctavish.itch.io/)
 - ✉️ mathewsalewski@gmail.com
 
 <!---
