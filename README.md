@@ -16,7 +16,7 @@ Designed in Unity with layered mechanics, adaptive difficulty, and narrative hoo
 Before diving into game development, I led teams at Stormtech, driving process improvements and mentoring others. Now, I channel that leadership into collaborative design, where every mechanic tells a story and every system invites exploration.
 📫 Let’s Connect
 - 💼 LinkedIn (add your link)
-- 🕹️ Itch.io [(if applicable)](https://dankmctavish.itch.io/)
+- 🕹️ [(Itch.io)](https://dankmctavish.itch.io/)
 - ✉️ mathewsalewski@gmail.com
 
 Would you like help customizing this further for specific projects, adding badges, or making it more interactive with visuals or GIFs?
