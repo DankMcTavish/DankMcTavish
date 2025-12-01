@@ -10,17 +10,17 @@ Hi! I'm Mathew — a game designer and developer currently completing my Game De
 
 ## 🕹️ Projects
 
-### Wordle Clone (Unity)
+Wordle Clone (Unity)
 A clean, responsive version of the viral word game. Includes keyboard input, feedback animations, and daily word logic.
 
-### Zombie Wave Shooter (Unity)
+Zombie Wave Shooter (Unity)
 Fast-paced survival shooter with wave-based enemy spawning, weapon upgrades, and score tracking.
 
-### Mini Games Collection (Unreal Engine)
-Includes Snake, Hangman, Pong, and Bomberman. Each game is built with modular logic and polished UI.
+Cowboy Endless Runner (Unity)
+An endless runner featuring a cowboy theme, built with modular object pooling, reset systems, and score tracking. Includes menu and splash screen design, responsive controls, and scalable architecture for future expansion.
 
-### Mustari Species (Homebrew D&D)
-A ferret-inspired race with flavorful traits, subraces, and lore. Designed for balance, roleplay depth, and mechanical clarity.
+Text‑Based RPG (C++, Work in Progress)
+A modular RPG system built in C++ featuring an abstract race/trait framework with both hardcoded core races (Human, Elf, Dwarf) and JSON‑driven custom species like the Mustari. Designed to showcase object‑oriented programming, data‑driven expansion, and scalable architecture, this project highlights recruiter‑friendly code practices while evolving into a larger RPG framework.
 
 ## 🛠️ Skills
 
