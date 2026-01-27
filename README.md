@@ -36,7 +36,8 @@ Before game design, I led teams at Stormtech — mentoring, improving processes,
 ## 📫 Connect with Me
 
 - 🕹️ [Itch.io](https://dankmctavish.itch.io/)
-- ✉️ mathewsalewski@gmail.com
+- 🕹️ [DankEraStudios](https://dankerastudios.com/)
+- ✉️ mathew@DankEraStudios.com
 
 <!---
 DankMcTavish/DankMcTavish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
