@@ -8,25 +8,16 @@ Hi! I'm Mathew — a game designer and developer currently completing my Game De
 - Narrative-aware: I design with lore, context, and player immersion in mind.
 - Iterative & analytical: I test, tweak, and challenge assumptions to make better solutions.
 
-## 🕹️ Projects
+## 🕹️ Current Projects
 
-Wordle Clone (Unity)
-A clean, responsive version of the viral word game. Includes keyboard input, feedback animations, and daily word logic.
-
-Zombie Wave Shooter (Unity)
-Fast-paced survival shooter with wave-based enemy spawning, weapon upgrades, and score tracking.
-
-Cowboy Endless Runner (Unity)
-An endless runner featuring a cowboy theme, built with modular object pooling, reset systems, and score tracking. Includes menu and splash screen design, responsive controls, and scalable architecture for future expansion.
-
-Text‑Based RPG (C++, Work in Progress)
-A modular RPG system built in C++ featuring an abstract race/trait framework with both hardcoded core races (Human, Elf, Dwarf) and JSON‑driven custom species like the Mustari. Designed to showcase object‑oriented programming, data‑driven expansion, and scalable architecture, this project highlights recruiter‑friendly code practices while evolving into a larger RPG framework.
+PuckyGuess [WIP]
+A hockey inspired game of guesswho. Features multiple difficulties and varrying hints.
 
 ## 🛠️ Skills
 
 - Languages: C++, C#, Python
 - Engines: Unity, Unreal Engine, Godot
-- Tools: Maya, GitHub, Visual Studio
+- Tools: Maya, GitHub, Visual Studio, XCode
 - Focus: Gameplay systems, world-building, UX, collaborative iteration
 
 ## 🌱 From Supervisor to Storyteller
