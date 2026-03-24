@@ -6,7 +6,7 @@ Hi! I'm Mathew — a game designer and developer currently completing my Game De
 
 - Mechanics-first: I build systems that feel intuitive, balanced, and rewarding.
 - Narrative-aware: I design with lore, context, and player immersion in mind.
-- Iterative & analytical: I test, tweak, and challenge assumptions to make better games.
+- Iterative & analytical: I test, tweak, and challenge assumptions to make better solutions.
 
 ## 🕹️ Projects
 
